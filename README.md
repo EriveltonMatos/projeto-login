@@ -14,5 +14,7 @@ Criado com o intuito de treinar posicionamento e testar cores com o background:l
 * Aplicar ícones com o Font Awesome (Site de ícones para seu HTML)
 * background: linear-gradient - Para deixar o Background com duas cores juntas
 * Trabalhar com Media Queries - Para deixar o site responsivo
+* Trabalhar com bordas e posicionamento
+
 # Estado do projeto:
 Concluído
